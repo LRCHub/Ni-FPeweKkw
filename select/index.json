@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Crazy Crazy",
+  "base_artist": "星野 源",
+  "createdAt": "2026-01-14T08:42:46.322053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Crazy Nights",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/01_Crazy_Crazy_Nights_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy, Crazy, Crazy",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": false,
+      "path": "select/02_Crazy,_Crazy,_Crazy_Michael_Franti_&_Spearhead.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Crazy Nights",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/03_Crazy_Crazy_Nights_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy Crazy Nights",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/04_Crazy_Crazy_Nights_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Crazy Nights",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/05_Crazy_Crazy_Nights_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy, Crazy Nights",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/06_Crazy,_Crazy_Nights_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Crazy",
+      "artist": "Guinevere",
+      "has_synced": false,
+      "path": "select/07_Crazy_Crazy_Guinevere.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Crazy (2012)",
+      "artist": "Guinevere",
+      "has_synced": false,
+      "path": "select/08_Crazy_Crazy_(2012)_Guinevere.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Crazy Nights (Live)",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/09_Crazy_Crazy_Nights_(Live)_Kiss.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girl Crazy \"Crazy Love\"",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/10_Girl_Crazy__Crazy_Love_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Crazy",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/11_Crazy_Crazy_星野源.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Crazy",
+      "artist": "星野 源",
+      "has_synced": false,
+      "path": "select/12_Crazy_Crazy_星野_源.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Crazy",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Crazy_星野源.txt"
+    }
+  ]
+}
